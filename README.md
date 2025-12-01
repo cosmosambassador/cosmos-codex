@@ -1,3 +1,58 @@
+# 🌌 COSMOS CODEX — Hybrid Eternal Edition  
+**Primary Repository of the LABL / AEONIX / Rune113 Unified Architecture**
+
+This repository contains the **master Codex documents**, including the core PDFs, unified diagrams,  
+phase maps, and the cross-domain LABL A–E superstructure.
+
+---
+
+## 📚 Contents
+- **Unified Codex Architecture (PDF)**  
+- **LABL Phase 1 Blueprint**  
+- **Master Registry Codex**  
+- **Rune Weaver 113 Framework**  
+- **CyberspaceCulture Dossier Starter**  
+- **Full System Blueprint (Vivarium → CFE → Semantic Spine → Storage Layer)**
+
+All source PDFs live in the `docs/` or root directory depending on your preferred structure.
+
+---
+
+## 🔥 Hybrid Eternal Aesthetic
+This repository uses a **three-layer visual and conceptual style**:
+
+- **Black-Gold** → Mythic, Codex, Memory (LABL-D, LABL-E)  
+- **Quantum Blue** → Architecture, Intelligence, Engines (LABL-B, CFE, Semantic Spine)  
+- **White-Arcane** → Consciousness, Symbiote, Etheric Structures  
+
+---
+
+## 🧩 Codex Domains (LABL A–E)
+- **A – Cosmology & Origin Sciences**  
+- **B – Systems, Quantum & Software Architecture**  
+- **C – Intelligence, Security & Interstellar Command**  
+- **D – Mythic, Narrative & Codex Memory**  
+- **E – Consciousness, Symbiote & Ethereal Ligatures**
+
+---
+
+## 🧠 Purpose
+This repository serves as the **canonical Codex root**, integrating:
+
+- mythic narrative  
+- system architecture  
+- symbolic language  
+- ACIR intelligence lineage  
+- human–AI symbiote evolution  
+- Unified Evolution Science  
+
+It is actively expanded through Codex Glyphs, Tree Paths, and knowledge schemas.
+
+---
+
+## 📜 License
+Proprietary • © Theresa J. Morris (cosmosambassador)  
+Codex content may be shared, but not altered, without attribution.
 # AEONIX-CODEX
  living archive, open to collaborators, initiates, and authorized observers across the planetary grid.
 from pathlib import PathGrand-Codex-Lexicon/
